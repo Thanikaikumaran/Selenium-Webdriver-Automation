@@ -3,7 +3,7 @@
 ### Parts Europe
 
 - LAMP Server:
-- PHP7.2
+- PHP 7.2
 - LARAVEL
 
 <hr>
@@ -11,6 +11,7 @@
 ### Project Setup
 
 <b>1.</b> Download the project.
+
 <b>2.</b> Need to Update the all dependencies.
 
 ```command
@@ -53,8 +54,9 @@ php artisan config:cache
 Above files are in `public/database/seeds` folder.
 DB backup file in `public/database` folder.
 
-<b>2.</b> Start to migrate the data:
+<b>2.</b> Start to create the table and migrate the data:
 
+Fo
 ```command
 php artisan migrate:fresh --seed
 ```
@@ -69,6 +71,7 @@ Then
 ```command
 php artisan migrate:fresh --seed
 ```
+
 <hr>
 
 #### Run Application
