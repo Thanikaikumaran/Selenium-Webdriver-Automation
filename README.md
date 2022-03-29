@@ -7,6 +7,7 @@
 - LARAVEL
 
 <hr>
+
 ### Project Setup
 
 <b>1.</b> Download the project.
@@ -41,6 +42,7 @@ php artisan view:clear
 php artisan config:cache
 ```
 <hr>
+
 #### Import Data into database 
 
 <b>1.</b> Provided Data:
