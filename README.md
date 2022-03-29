@@ -1,6 +1,6 @@
 
 
-### Parts Europe
+
 
 - LAMP Server:
 - PHP 7.2
@@ -48,8 +48,8 @@ php artisan config:cache
 
 <b>1.</b> Provided Data:
 
-- `vehicles.xlsx`
-- `parts.csv`
+- `abc.xlsx`
+- `cba.csv`
 
 Above files are in `public/database/seeds` folder.
 DB backup file in `public/database` folder.
@@ -83,5 +83,5 @@ php artisan serve
 Sample URL 
 
 ```html
-http://127.0.0.1:8000/vehicle
+http://127.0.0.1:8000/home
 ```
