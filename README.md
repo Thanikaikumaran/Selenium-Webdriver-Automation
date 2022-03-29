@@ -56,7 +56,6 @@ DB backup file in `public/database` folder.
 
 <b>2.</b> Start to create the table and migrate the data:
 
-Fo
 ```command
 php artisan migrate:fresh --seed
 ```
