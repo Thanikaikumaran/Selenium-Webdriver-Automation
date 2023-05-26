@@ -1,0 +1,70 @@
+*************************NEW****************************
+Log : 2022-03-28 20:07:19 input - []
+-----------------------------------------------------
+Log : 2022-03-28 20:07:19 input - {"bikeName":null,"modelName":null,"engineSize":null,"modelYear":null}
+-----------------------------------------------------
+Log : 2022-03-28 20:07:19 session - {"bikeName":null,"modelName":null,"engineSize":null,"modelYear":null}
+-----------------------------------------------------
+*************************NEW****************************
+Log : 2022-03-28 20:07:45 input - {"_token":"iy8kFm0RFYLilBtikXAEsddP85Y4ezmmB5CBxsUu","search_bike":"APRILIA","search_model":"AMICO 50 LX","search_engin_size":"50","search_model_year":"1992"}
+-----------------------------------------------------
+Log : 2022-03-28 20:07:45 input - {"bikeName":"APRILIA","modelName":"AMICO 50 LX","engineSize":"50","modelYear":"1992"}
+-----------------------------------------------------
+Log : 2022-03-28 20:07:45 session - {"bikeName":"APRILIA","modelName":"AMICO 50 LX","engineSize":"50","modelYear":"1992"}
+-----------------------------------------------------
+*************************NEW****************************
+Log : 2022-03-28 20:07:51 input - {"_token":"iy8kFm0RFYLilBtikXAEsddP85Y4ezmmB5CBxsUu","search_bike":"APRILIA","search_model":"AMICO 50 LX","search_engin_size":"50","search_model_year":"1992"}
+-----------------------------------------------------
+Log : 2022-03-28 20:07:51 input - {"bikeName":"APRILIA","modelName":"AMICO 50 LX","engineSize":"50","modelYear":"1992"}
+-----------------------------------------------------
+Log : 2022-03-28 20:07:51 session - {"bikeName":"APRILIA","modelName":"AMICO 50 LX","engineSize":"50","modelYear":"1992"}
+-----------------------------------------------------
+*************************NEW****************************
+Log : 2022-03-28 20:07:54 input - {"_token":"iy8kFm0RFYLilBtikXAEsddP85Y4ezmmB5CBxsUu","search_bike":"APRILIA","search_model":"AMICO 50 LX","search_engin_size":"50","search_model_year":"1992"}
+-----------------------------------------------------
+Log : 2022-03-28 20:07:54 input - {"bikeName":"APRILIA","modelName":"AMICO 50 LX","engineSize":"50","modelYear":"1992"}
+-----------------------------------------------------
+Log : 2022-03-28 20:07:54 session - {"bikeName":"APRILIA","modelName":"AMICO 50 LX","engineSize":"50","modelYear":"1992"}
+-----------------------------------------------------
+*************************NEW****************************
+Log : 2022-03-28 20:07:58 input - {"_token":"iy8kFm0RFYLilBtikXAEsddP85Y4ezmmB5CBxsUu","search_bike":"APRILIA","search_model":"AMICO 50 LX","search_engin_size":"50","search_model_year":"1992"}
+-----------------------------------------------------
+Log : 2022-03-28 20:07:58 input - {"bikeName":"APRILIA","modelName":"AMICO 50 LX","engineSize":"50","modelYear":"1992"}
+-----------------------------------------------------
+Log : 2022-03-28 20:07:58 session - {"bikeName":"APRILIA","modelName":"AMICO 50 LX","engineSize":"50","modelYear":"1992"}
+-----------------------------------------------------
+*************************NEW****************************
+Log : 2022-03-28 20:08:01 input - {"_token":"iy8kFm0RFYLilBtikXAEsddP85Y4ezmmB5CBxsUu","search_bike":"APRILIA","search_model":"AMICO 50 LX","search_engin_size":"50","search_model_year":"1992"}
+-----------------------------------------------------
+Log : 2022-03-28 20:08:01 input - {"bikeName":"APRILIA","modelName":"AMICO 50 LX","engineSize":"50","modelYear":"1992"}
+-----------------------------------------------------
+Log : 2022-03-28 20:08:01 session - {"bikeName":"APRILIA","modelName":"AMICO 50 LX","engineSize":"50","modelYear":"1992"}
+-----------------------------------------------------
+*************************NEW****************************
+Log : 2022-03-28 20:10:12 input - []
+-----------------------------------------------------
+Log : 2022-03-28 20:10:12 input - {"bikeName":null,"modelName":null,"engineSize":null,"modelYear":null}
+-----------------------------------------------------
+Log : 2022-03-28 20:10:12 session - {"bikeName":null,"modelName":null,"engineSize":null,"modelYear":null}
+-----------------------------------------------------
+*************************NEW****************************
+Log : 2022-03-28 20:11:08 input - []
+-----------------------------------------------------
+Log : 2022-03-28 20:11:08 input - {"modelName":null,"engineSize":null,"modelYear":null}
+-----------------------------------------------------
+Log : 2022-03-28 20:11:08 session - {"modelName":null,"engineSize":null,"modelYear":null}
+-----------------------------------------------------
+*************************NEW****************************
+Log : 2022-03-28 20:11:48 input - []
+-----------------------------------------------------
+Log : 2022-03-28 20:11:48 input - []
+-----------------------------------------------------
+Log : 2022-03-28 20:11:48 session - []
+-----------------------------------------------------
+*************************NEW****************************
+Log : 2022-03-28 20:12:04 input - {"_token":"iy8kFm0RFYLilBtikXAEsddP85Y4ezmmB5CBxsUu","search_bike":"ADLY (HERKULES)","search_model":"BLIZZARD GTA 50","search_engin_size":"50","search_model_year":"2017"}
+-----------------------------------------------------
+Log : 2022-03-28 20:12:04 input - {"bikeName":"ADLY (HERKULES)","modelName":"BLIZZARD GTA 50","engineSize":"50","modelYear":"2017"}
+-----------------------------------------------------
+Log : 2022-03-28 20:12:04 session - {"bikeName":"ADLY (HERKULES)","modelName":"BLIZZARD GTA 50","engineSize":"50","modelYear":"2017"}
+-----------------------------------------------------

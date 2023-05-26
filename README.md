@@ -1,10 +1,10 @@
-
-
-
+### Application Details
 
 - LAMP Server:
 - PHP 7.2
 - LARAVEL
+
+- Author Name - Suba
 
 <hr>
 
@@ -12,7 +12,7 @@
 
 <b>1.</b> Download the project.
 
-<b>2.</b> Need to Update the all dependencies.
+<b>2.</b> Need to Update the all dependencies(If required only, Already attached the vendor folder, so we can avoid this step).
 
 ```command
 composer upgrade
@@ -48,8 +48,8 @@ php artisan config:cache
 
 <b>1.</b> Provided Data:
 
-- `abc.xlsx`
-- `cba.csv`
+- `vehicles.xlsx`
+- `parts.csv`
 
 Above files are in `public/database/seeds` folder.
 DB backup file in `public/database` folder.
@@ -83,5 +83,5 @@ php artisan serve
 Sample URL 
 
 ```html
-http://127.0.0.1:8000/home
+http://127.0.0.1:8000/vehicle
 ```
